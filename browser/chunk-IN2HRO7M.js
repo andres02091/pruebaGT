@@ -1,0 +1,1 @@
+import{Va as o,Wa as a,aa as i,cb as r,ib as s}from"./chunk-O26KBKTK.js";var m=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-skill"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(o(0,"p"),r(1,"skill works!"),a())}});let t=e;return t})();export{m as SkillComponent};
