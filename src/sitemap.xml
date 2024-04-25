@@ -1,76 +1,224 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://angular.ganatan.com/</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://pruebagt.onrender.com/</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/about</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/about</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/contact</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/contact</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/bootstrap</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/bootstrap</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/services</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/components</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/components</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/services</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/httpclient</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/forms</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/forms</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://pruebagt.onrender.com/about/experience</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/about/experience</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://pruebagt.onrender.com/about/skill</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/about/skill</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://pruebagt.onrender.com/contact/mailing</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/contact/mailing</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://pruebagt.onrender.com/contact/map</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/contact/mapping</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://pruebagt.onrender.com/contact/website</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://angular.ganatan.com/contact/website</loc>
-  <lastmod>2023-12-08T12:51:22+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://pruebagt.onrender.com/bootstrap/alerts</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/badges</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/blockquotes</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/cards</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/collapse</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/dropdowns</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/list-group</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/modal</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/toasts</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/tooltips</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/buttons</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/checkbox</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/forms</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/pagination</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/tables</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/accordions</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/breadcrumb</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/popovers</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/progress</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/spinners</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/bootstrap/typography</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/prototype</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-control</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-control-class</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-group</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-builder</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-builder-nested</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-array</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/form-multi</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/single</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/forms/multi</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://pruebagt.onrender.com/blog/como-reparar-un-auto-sin-ruedas</loc>
+<lastmod>2024-04-25T19:50:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
