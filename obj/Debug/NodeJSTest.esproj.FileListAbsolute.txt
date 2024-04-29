@@ -1,0 +1,4 @@
+C:\Users\A n d r e s\source\repos\NodeJSTest\NodeJSTest\obj\Debug\NodeJSTest.esproj.SuggestedBindingRedirects.cache
+C:\Users\A n d r e s\source\repos\NodeJSTest\NodeJSTest\obj\Debug\NodeJSTest.esproj.CoreCompileInputs.cache
+C:\Users\A n d r e s\Source\Repos\NodeJSTestGT\NodeJSTest\obj\Debug\NodeJSTest.esproj.SuggestedBindingRedirects.cache
+C:\Users\A n d r e s\Source\Repos\NodeJSTestGT\NodeJSTest\obj\Debug\NodeJSTest.esproj.CoreCompileInputs.cache
